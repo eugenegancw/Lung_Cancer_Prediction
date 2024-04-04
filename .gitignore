@@ -2,3 +2,4 @@
 .DS_Store
 **/ML_env/**
 exploratory_analysis_EG.ipynb
+linear_separability_*
